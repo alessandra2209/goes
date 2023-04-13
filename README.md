@@ -1,1 +1,0 @@
-# Góes- Curso técnico
