@@ -1,6 +1,5 @@
 # <h1 align="center"> Colégio Estadual Góes Calmon </h1>
-![descrição da imagem]((https://user-images.githubusercontent.com/129528563/236195901-ed7972c0-db5f-4bd4-9c71-a97cb0fc7260.png)
-itHub)
+![CEGC] (https://github.com/alessandra2209/goes/blob/main/CEGC.png)
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
